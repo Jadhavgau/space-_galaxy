@@ -1,0 +1,23 @@
+body{
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-weight: 600;
+    font-style: bold;
+}
+a button{
+    background: linear-gradient(45deg, #0ff, #00f, #a0f);
+    color: white;
+    border: none;
+    border-radius: 30px;
+    box-shadow: 0 0 12px rgba(0, 255, 255, 0.5);
+    transition: all 0.3s ease-in-out;
+}
+a button:hover{
+    background: linear-gradient(45deg #f0f, #08f, #0ff);
+    box-shadow: 0 0 20px #0ff;
+    transform: scale(1.05);
+}
+h5{
+    text-decoration: underline;
+}
