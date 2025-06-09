@@ -7,7 +7,7 @@ body {
 .galaxy{
     position: relative;
     text-align: center;
-    min-height: 50vh;
+    
     background-color: black;
 }
 h1{
