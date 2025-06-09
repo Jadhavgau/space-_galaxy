@@ -162,7 +162,7 @@ img{
     box-shadow: 0 0 20px rgba(255, 255, 255, 0.3);
     color: white;
     text-align: center;
-    height: 300px ;
+    height: 350px ;
 }
 .form a button{
     background: linear-gradient(45deg, #0ff, #00f, #a0f);
@@ -198,7 +198,7 @@ img{
 .why-go img{
     width: 100%;
     height: auto;
-    margin: 50px;
+    margin: 30px;
     transition: transform 0.3s ease;
     box-shadow: 0 0 20px rgba(255, 255, 255, 0.3);
 }
