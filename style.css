@@ -198,7 +198,7 @@ img{
 .why-go img{
     width: 100%;
     height: auto;
-    margin: 25px;
+    margin: 30px;
     transition: transform 0.3s ease;
     box-shadow: 0 0 20px rgba(255, 255, 255, 0.3);
 }
