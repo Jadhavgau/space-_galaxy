@@ -158,11 +158,12 @@ img{
     width: 100%;
     margin: 20px;
     position: relative;
+    display:flex;
     transition: transform 0.3s ease;
     box-shadow: 0 0 20px rgba(255, 255, 255, 0.3);
     color: white;
     text-align: center;
-    height: 390px ;
+    height: auto ;
 }
 .form a button{
     background: linear-gradient(45deg, #0ff, #00f, #a0f);
